@@ -1,4 +1,14 @@
-D 'r2_nakagawa': Nakagawa's R-squared statistic for multilevel mixed-effects linear regression Use r2_nakagawa With STATA 19
+D 'srslogit': Logit regression with secondary ridit splines Use srslogit With STATA 19
 D
-F r2_nakagawa.ado
-F r2_nakagawa.sthlp
+F bspline.ado
+F bspline.sthlp
+F flexcurv.ado
+F flexcurv.sthlp
+F frencurv.ado
+F frencurv.sthlp
+F fridit.ado
+F fridit.sthlp
+F srslogit.ado
+F srslogit.sthlp
+F wridit.ado
+F wridit.sthlp
