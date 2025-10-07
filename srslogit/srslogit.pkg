@@ -1,0 +1,4 @@
+D 'r2_nakagawa': Nakagawa's R-squared statistic for multilevel mixed-effects linear regression Use r2_nakagawa With STATA 19
+D
+F r2_nakagawa.ado
+F r2_nakagawa.sthlp
