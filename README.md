@@ -1,6 +1,8 @@
 # srslogit
 Logit regression with secondary ridit splines Use srslogit With STATA 19
 
+https://www.youtube.com/watch?v=NoDuexzNj78
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
